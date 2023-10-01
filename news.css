@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap');
+body{
+    background-color: black;
+}
+#head-div{
+    background-color: black;
+    border: 1px solid;
+}
+.body-div{
+    background-color: rgb(42, 38, 38);
+    color: white;
+    padding: 25px 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 8px;
+}
+.body-div:hover{
+    background-color: rgb(255, 92, 33);
+    .date{
+        color: white;
+    }
+}
+h1,p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: rgb(249, 97, 43);
+    margin-left: 12px;
+}
+.header{
+    font-weight: bold;
+}
+.date{
+    color: rgb(154, 151, 151);
+    font-size:11px;
+}
+.body-content{
+    font-family: 'Prompt', sans-serif;
+    font-size: 14px;
+}
